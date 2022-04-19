@@ -1,0 +1,20 @@
+.service{
+    padding: 10px;
+    border-radius: 10px;
+}
+.service img {
+  height: 250px;
+  width: 100%;
+  border-radius: 10px;
+}
+.service button{
+    width: 100%;
+    background-color: aqua;
+}
+.service:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: 0.4s;
+}
+.pragruph {
+  text-align: justify;
+}

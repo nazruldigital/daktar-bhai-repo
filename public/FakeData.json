@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Dental Bonding",
+        "about":"Dental bonding is a technique used to correct imperfections with your teeth to give you a better-looking smile. Bonding is used to repair chipped teeth, and cracked teeth.",
+        "img":"https://i.ibb.co/qsQnF6B/image2.jpg",
+        "price":19.99
+    },
+    {
+        "id":2,
+        "name":"Dental Crowns",
+        "about":"A dental crown is a dental prosthesis which replaces the visible part of a tooth. A dental crown functions to strengthen teeth, restore their original shape, and improve their appearance.",
+        "img":"https://i.ibb.co/t8Nn4jm/image3.jpg",
+        "price":27.99
+    },
+    {
+        "id":3,
+        "name":"Bridgework",
+        "about":"A dental bridge is a structure between two dental crowns to fill the gap between missing teeth. A bridge can be supported by your teeth, implants, or a combination of teeth and implants.",
+        "img":"https://i.ibb.co/QKgqLk3/image4.jpg",
+        "price":15.99
+    },
+    {
+        "id":4,
+        "name":"Cosmetic Fillings",
+        "about":"Cosmetic fillings, or tooth- colored fillings, are made of composite resin and glass particles. They are cemented onto the existing teeth using a bonding agent.",
+        "img":"https://i.ibb.co/f0fsXH8/image5.png",
+        "price":30.99
+    },
+    {
+        "id":5,
+        "name":"Invisalign",
+        "about":"Crooked smile? Invisalign is the best way to straighten your smile without interfering with your day-to-day life. Invisalign gradually moves your teeth using a series of custom-fitted",
+        "img":"https://i.ibb.co/HG6Vj4m/image6.jpg",
+        "price":21.99
+    },
+    {
+        "id":6,
+        "name":"Dental Veneers",
+        "about":"Many people are discovering the benefits of veneers. Veneers are thin coverings that are placed over the front part of the teeth. Veneers are placed on teeth that are crooked",
+        "img":"https://i.ibb.co/rFJR2FZ/image7.jpg",
+        "price":18.99
+    }
+]

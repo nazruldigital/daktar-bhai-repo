@@ -1,0 +1,8 @@
+.about{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 20px;
+}
+.paragrph{
+    text-align: justify;
+}

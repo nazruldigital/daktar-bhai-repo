@@ -1,0 +1,29 @@
+.login-from {
+  margin: 0 auto;
+  width: 50%;
+}
+.login-from input {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+  height: 50px;
+  background-color: rgb(243, 243, 243);
+  border: 0;
+  border-radius: 5px;
+  padding-left: 10px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.login-from button {
+  background-color: rgb(46, 168, 250);
+  color: white;
+}
+.login-text {
+  color: lightskyblue;
+  margin-left: 140px;
+
+}
+.login-text:hover {
+  color: rgb(255, 0, 0);
+  transition: 0.4s;
+}

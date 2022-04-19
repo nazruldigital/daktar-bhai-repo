@@ -1,0 +1,23 @@
+.header{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.link {
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 20px;
+  color: gray;
+  transition: color ease-in-out 300ms;
+}
+
+.link:hover {
+  color: #e63e3e;
+}
+
+.active-link {
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 20px;
+  transition: color ease-in-out 300ms;
+  color: #e63e3e;
+}
